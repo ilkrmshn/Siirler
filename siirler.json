@@ -126,7 +126,7 @@
     "baslik" : "Mihriban (Aşk)"
     "siir" : ""
     "ses" : "yok"
-  ,
+  },
   {
 	"siirId" : "aa17",
     "sairSira" : "17",
@@ -134,7 +134,7 @@
     "baslik" : "Sen Varsın"
     "siir" : ""
     "ses" : "yok"
-  ,
+  },
   {
 	"siirId" : "ab1",
     "sairSira" : "1",
@@ -142,7 +142,7 @@
     "baslik" : "Bir Akşam Üstüdür"
     "siir" : ""
     "ses" : "yok"
-  ,
+  },
   {
 	"siirId" : "ab2",
     "sairSira" : "2",
