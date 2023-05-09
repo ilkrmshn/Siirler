@@ -206,7 +206,7 @@
     "baslik" : "Sevdan Beni"
     "siir" : ""
     "ses" : "yok"
-  ,
+  },
   {
 	"siirId" : "ab10",
     "sairSira" : "10",
@@ -294,7 +294,7 @@
     "baslik" : "Bir Adın Kalmalı"
     "siir" : ""
     "ses" : "yok"
-  ,
+  },
   {
 	"siirId" : "ac10",
     "sairSira" : "10",
