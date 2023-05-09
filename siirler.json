@@ -1,0 +1,314 @@
+[
+  {
+	"siirId" : "aa1",
+    "sairSira" : "1",
+    "sair" : "Abdurrahim Karakoç"
+    "baslik" : "Açık Dilekçe"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "aa2",
+    "sairSira" : "2",
+    "sair" : "Abdurrahim Karakoç"
+    "baslik" : "Anadolu Bahar"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "aa3",
+    "sairSira" : "3",
+    "sair" : "Abdurrahim Karakoç"
+    "baslik" : "Aşk Hikayesi"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "aa4",
+    "sairSira" : "4",
+    "sair" : "Abdurrahim Karakoç"
+    "baslik" : "Ayrılık Havası"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "aa5",
+    "sairSira" : "5",
+    "sair" : "Abdurrahim Karakoç"
+    "baslik" : "Ayıp"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "aa6",
+    "sairSira" : "6",
+    "sair" : "Abdurrahim Karakoç"
+    "baslik" : "Beklemek"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "aa7",
+    "sairSira" : "7",
+    "sair" : "Abdurrahim Karakoç"
+    "baslik" : "Sen Varsın"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "aa8",
+    "sairSira" : "8",
+    "sair" : "Abdurrahim Karakoç"
+    "baslik" : "Tut Ellerimden"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "aa9",
+    "sairSira" : "9",
+    "sair" : "Abdurrahim Karakoç"
+    "baslik" : "Ben"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "aa10",
+    "sairSira" : "10",
+    "sair" : "Abdurrahim Karakoç"
+    "baslik" : "Beni De Çağır"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "aa11",
+    "sairSira" : "11",
+    "sair" : "Abdurrahim Karakoç"
+    "baslik" : "Bize Göre"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "aa12",
+    "sairSira" : "12",
+    "sair" : "Abdurrahim Karakoç"
+    "baslik" : "Bu Dünya Kimin Dünyası?"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "aa13",
+    "sairSira" : "13",
+    "sair" : "Abdurrahim Karakoç"
+    "baslik" : "Demedi Deme"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "aa14",
+    "sairSira" : "14",
+    "sair" : "Abdurrahim Karakoç"
+    "baslik" : "Dua"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "aa15",
+    "sairSira" : "15",
+    "sair" : "Abdurrahim Karakoç"
+    "baslik" : "Gel"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "aa16",
+    "sairSira" : "16",
+    "sair" : "Abdurrahim Karakoç"
+    "baslik" : "Mihriban (Aşk)"
+    "siir" : ""
+    "ses" : "yok"
+  ,
+  {
+	"siirId" : "aa17",
+    "sairSira" : "17",
+    "sair" : "Abdurrahim Karakoç"
+    "baslik" : "Sen Varsın"
+    "siir" : ""
+    "ses" : "yok"
+  ,
+  {
+	"siirId" : "ab1",
+    "sairSira" : "1",
+    "sair" : "Ahmed Arif"
+    "baslik" : "Bir Akşam Üstüdür"
+    "siir" : ""
+    "ses" : "yok"
+  ,
+  {
+	"siirId" : "ab2",
+    "sairSira" : "2",
+    "sair" : "Ahmed Arif"
+    "baslik" : "Ay Karanlık"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "ab3",
+    "sairSira" : "3",
+    "sair" : "Ahmed Arif"
+    "baslik" : "Hasretinden Prangalar Eskittim"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "ab4",
+    "sairSira" : "4",
+    "sair" : "Ahmed Arif"
+    "baslik" : "Unutamadığım"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "ab5",
+    "sairSira" : "5",
+    "sair" : "Ahmed Arif"
+    "baslik" : "Anadolu"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "ab6",
+    "sairSira" : "6",
+    "sair" : "Ahmed Arif"
+    "baslik" : "İçerde"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "ab7",
+    "sairSira" : "7",
+    "sair" : "Ahmed Arif"
+    "baslik" : "Kara"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "ab8",
+    "sairSira" : "8",
+    "sair" : "Ahmed Arif"
+    "baslik" : "Merhaba"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "ab9",
+    "sairSira" : "9",
+    "sair" : "Ahmed Arif"
+    "baslik" : "Sevdan Beni"
+    "siir" : ""
+    "ses" : "yok"
+  ,
+  {
+	"siirId" : "ab10",
+    "sairSira" : "10",
+    "sair" : "Ahmed Arif"
+    "baslik" : "Hani Kurşun Sıksan Geçmez Geceden"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "ab11",
+    "sairSira" : "11",
+    "sair" : "Ahmed Arif"
+    "baslik" : ""
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "ac1",
+    "sairSira" : "1",
+    "sair" : "Ahmet Hamdi Tanpınar"
+    "baslik" : "Ağlama"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "ac2",
+    "sairSira" : "2",
+    "sair" : "Ahmet Hamdi Tanpınar"
+    "baslik" : "Aşk"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "ac3",
+    "sairSira" : "3",
+    "sair" : "Ahmet Hamdi Tanpınar"
+    "baslik" : "Bekleyeceğim"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "ac4",
+    "sairSira" : "4",
+    "sair" : "Ahmet Hamdi Tanpınar"
+    "baslik" : "Sen ve Ben"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "ac5",
+    "sairSira" : "5",
+    "sair" : "Ahmet Hamdi Tanpınar"
+    "baslik" : "Yağmur"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "ac6",
+    "sairSira" : "6",
+    "sair" : "Ahmet Hamdi Tanpınar"
+    "baslik" : "Özlem"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "ac7",
+    "sairSira" : "7",
+    "sair" : "Ahmet Hamdi Tanpınar"
+    "baslik" : "Ne İçindeyim Zamanın"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "ac8",
+    "sairSira" : "8",
+    "sair" : "Ahmet Hamdi Tanpınar"
+    "baslik" : "Mavi, Maviydi Gökyüzü"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "ac9",
+    "sairSira" : "9",
+    "sair" : "Ahmet Hamdi Tanpınar"
+    "baslik" : "Bir Adın Kalmalı"
+    "siir" : ""
+    "ses" : "yok"
+  ,
+  {
+	"siirId" : "ac10",
+    "sairSira" : "10",
+    "sair" : "Ahmet Hamdi Tanpınar"
+    "baslik" : "Leyla"
+    "siir" : ""
+    "ses" : "yok"
+  },
+  {
+	"siirId" : "ac11",
+    "sairSira" : "11",
+    "sair" : "Ahmet Hamdi Tanpınar"
+    "baslik" : ""
+    "siir" : ""
+    "ses" : "yok"
+  }
+ ]
